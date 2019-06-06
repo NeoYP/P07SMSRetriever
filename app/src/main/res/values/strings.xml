@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P07-SMS Retriever</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rs">Retrieve SMS</string>
+    <string name="osctn">Only SMS containing this number</string>
+    <string name="oswtw">Only SMS with this word</string>
+    <string name="email">Email</string>
+</resources>
